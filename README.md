@@ -8,3 +8,5 @@ Mais aussi avoir des statistiques qui puissent nous suggérer de télécharger l
 Pouvoirs additionnais LE MÊME PRINCIPE QUE JELLYSEERR, mais avec notre style.
 
 Est plein d'autres idées ...
+
+Et je vous demande de l'aide je connais que quelque (html, css, Js, php) truc mais j'ai que 17 ans.
